@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Aptimust Syrup",
+            "desc": "Appetite stimulant",
+            "price": 97.42,
+            "color": "#33505a",
+            "image": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/v1600104549/cropped/uhilkoau5xmywwkw1ekx.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Betnovate-N Cream",
+            "desc": "To treat skin infections",
+            "price": 40.00,
+            "color": "#00ac51",
+            "image": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/v1623866412/zxb9kcxxizqz7efacb2g.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Allegra 120mg Tablet",
+            "desc": "Anti-allergy medicine",
+            "price": 149.2,
+            "color": "#33505a",
+            "image": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/v1600084406/cropped/b949nty485o1itezg3ya.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Histafree 120 Tablet",
+            "desc": "Treatment of Sneezing and runny nose due to allergies",
+            "price": 99.00,
+            "color": "#544ee4",
+            "image": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/v1612797774/lciqvj6eqlmtzt9mfm3u.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Mucaine Gel Mint",
+            "desc": "Treatment of Acidity",
+            "price": 137.23,
+            "color": "#e3e4e9",
+            "image": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/v1600687999/vs0gyxymxnp0tinc0tgo.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Surfaz-SN Cream",
+            "desc": "Treatment of Skin infections",
+            "price": 65.74,
+            "color": "#f73984",
+            "image": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/v1600102408/cropped/tcwudd1e5iv3f1vdadsc.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Sibelium 10mg Tablet",
+            "desc": "Prevention of Migraine",
+            "price": 119.17,
+            "color": "#1c1c1c",
+            "image": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/v1600106015/cropped/aqicsqzecbshfzabigl6.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Zentel Oral Suspension",
+            "desc": "Treatment of Parasitic infections",
+            "price": 13.42,
+            "color": "#7c95eb",
+            "image": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/v1600081738/cropped/x22lv2pdablvhunsgn6r.jpg"
+        }
+    ]
+}
